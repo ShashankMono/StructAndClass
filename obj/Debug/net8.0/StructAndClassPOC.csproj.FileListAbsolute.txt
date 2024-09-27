@@ -1,0 +1,14 @@
+D:\monocept_c# learning\Assignment\StructAndClassPOC\StructAndClassPOC\bin\Debug\net8.0\StructAndClassPOC.exe
+D:\monocept_c# learning\Assignment\StructAndClassPOC\StructAndClassPOC\bin\Debug\net8.0\StructAndClassPOC.deps.json
+D:\monocept_c# learning\Assignment\StructAndClassPOC\StructAndClassPOC\bin\Debug\net8.0\StructAndClassPOC.runtimeconfig.json
+D:\monocept_c# learning\Assignment\StructAndClassPOC\StructAndClassPOC\bin\Debug\net8.0\StructAndClassPOC.dll
+D:\monocept_c# learning\Assignment\StructAndClassPOC\StructAndClassPOC\bin\Debug\net8.0\StructAndClassPOC.pdb
+D:\monocept_c# learning\Assignment\StructAndClassPOC\StructAndClassPOC\obj\Debug\net8.0\StructAndClassPOC.GeneratedMSBuildEditorConfig.editorconfig
+D:\monocept_c# learning\Assignment\StructAndClassPOC\StructAndClassPOC\obj\Debug\net8.0\StructAndClassPOC.AssemblyInfoInputs.cache
+D:\monocept_c# learning\Assignment\StructAndClassPOC\StructAndClassPOC\obj\Debug\net8.0\StructAndClassPOC.AssemblyInfo.cs
+D:\monocept_c# learning\Assignment\StructAndClassPOC\StructAndClassPOC\obj\Debug\net8.0\StructAndClassPOC.csproj.CoreCompileInputs.cache
+D:\monocept_c# learning\Assignment\StructAndClassPOC\StructAndClassPOC\obj\Debug\net8.0\StructAndClassPOC.dll
+D:\monocept_c# learning\Assignment\StructAndClassPOC\StructAndClassPOC\obj\Debug\net8.0\refint\StructAndClassPOC.dll
+D:\monocept_c# learning\Assignment\StructAndClassPOC\StructAndClassPOC\obj\Debug\net8.0\StructAndClassPOC.pdb
+D:\monocept_c# learning\Assignment\StructAndClassPOC\StructAndClassPOC\obj\Debug\net8.0\StructAndClassPOC.genruntimeconfig.cache
+D:\monocept_c# learning\Assignment\StructAndClassPOC\StructAndClassPOC\obj\Debug\net8.0\ref\StructAndClassPOC.dll
